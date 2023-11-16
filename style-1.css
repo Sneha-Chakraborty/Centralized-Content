@@ -1,0 +1,20 @@
+*{
+    margin : 0;
+    padding : 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color : black;
+}
+
+.center-text{
+    color : white;
+    font-size : 50px;
+    font-weight : bold;
+    height : 100vh;
+    display : flex;
+    align-items : center;
+    justify-content : center;
+}
+
